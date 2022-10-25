@@ -3,7 +3,7 @@ Spam Filtering as a Cybersecurity Measure
 
 
 # Overview
-Cyber-security is the practice of protecting systems and entities from outside forces designed to infiltrate, change, and gleam sensitive information from them. Today, companies have begun to practically invest in professionals and, in larger agencies, entire departments familiar with addressing, preventing, and managing these crises situations. Such professionals can include a team made up of security analysts, IT administrators, and/or a data scientists who work collaboratively to address problems like:
+Cyber-security is the practice of protecting systems and entities from outside forces designed to infiltrate, change, and gleam sensitive information from them. Today, companies have begun to practically invest in professionals and, in larger agencies, entire departments familiar with addressing, preventing, and managing these crises situations. Such professionals can include a team made up of security analysts, IT administrators, and/or a data scientists who work collaboratively to address problems like:  
 
 - system cleaning and updating
 - problem cleaning, i.e. malware
